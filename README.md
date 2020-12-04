@@ -11,7 +11,7 @@ The difference between ‘9’ and ‘0’ is not considered as 1 .
 All single digit numbers are considered as Jumping numbers.
 
 ```
-## Input >> Output Examples
+Input >> Output Examples
 jumpingNumber(9) ==> return "Jumping!!"
 jumpingNumber(79) ==> return "Not!!"
 jumpingNumber(23) ==> return "Jumping!!"
